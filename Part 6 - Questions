@@ -1,0 +1,41 @@
+What Licensing Agreement did you choose and why?
+
+  The Licensing Agreement I decided to use was the Public Domain Dedication (CC Zero) because I felt that a random list of Canadian Provinces may be useful for future generations
+  to learn about our friends to the North.  This information was downloaded from an open-source document, so I reasoned that it should be able to be downloaded and used as open-
+  source for any other practical uses.
+
+What are data archiving options are recommended by the Montana State University Library?
+
+  Web Recorder and Archive-It are the primary methods that the MSU library recommends to archive data.  Metadata is handled by the Data Librarian.    
+
+How would using GitHub help make your data/code align with FAIR Protocols?
+
+  Using GitHub to upload your code and data helps increase the usability of the data.  When the code and data is placed under a repository website like GitHub, more people worldwide
+  have good access to the data, and making it available to either specific or any individual can help to save time, money, and reduce errors because each individual does not have to
+  re-create what you have done.  FAIR protocols try to increase the Findability, Accessibility, Interoperatibility, and Reuse of data, so having a single data repository helps to
+  keep all that information in one location where it can be easily found, accessed, reused and other programs can operate with that data.
+  
+What are the advantages of making your data/code more widely accessible?
+
+  Making code and data more widely accessible can help to save time and money by allowing others to access the work that you have already created and not have to redo or rewrite
+  the code or create new data.  When done correctly, it is helpful to have one dataset or code that can be used by many individuals because it reduces errors or problems in 
+  the dataset.  
+
+What are the disadvantages of making your data/code more widely accessible?
+
+   Disadvantages to making data and code widely accessible is that there are more opportunities for that data or code to be hacked or abused.  Another disadvantage would be
+   that if the code or data has any issues, problems, or is incomplete, it could lead to those problems becoming a much larger problem when it has been used by multiple individuals.
+
+What data/code from your grad project would you envision publishing on GitHub?
+  
+  A potential future development of my graduate project could include code that helps automate the video analysis required by Large Scale Particle Image Velocimetry (LSPIV).
+  This update would allow any users to set pre-defined parameters so that processing recorded videos to determine the water surface velocity fields could be completed much faster.
+  Another development of the code used to process LSPIV video to set a perception threshold so that the video only started to record videos once the river had reached flood stage,
+  determined by a specific gage height from a nearby USGS gage station.
+  
+What data/code would you not publish? Why?
+  
+  At this time, I do not think there would be any information related to my LSPIV project that I would not publish.  Working on this project in conjunction with the USGS
+  has the added stipulation that code and projects are to be used with cooperators (in this case Montana Department of Transportation) and other public/private industries,
+  so any unpublished data would be up to the cooperator.
+  
